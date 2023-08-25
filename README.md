@@ -1,7 +1,7 @@
 # All-in-One Python Toolbox
 
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/all-in-one-python-toolbox)
-![GitHub license](https://img.shields.io/github/license/your-username/all-in-one-python-toolbox)
+![GitHub last commit](https://img.shields.io/github/last-commit/RAJPUTRoCkStAr/all-in-one-python-toolbox)
+![GitHub license](https://img.shields.io/github/license/RAJPUTRoCkStAr/all-in-one-python-toolbox)
 
 A versatile Python application that offers a variety of useful features, including PDF conversion, image background removal, text extraction from images, document conversion, audio recording, text-to-speech synthesis, and PDF text-to-speech reading.
 
