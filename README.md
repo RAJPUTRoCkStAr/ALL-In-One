@@ -1,42 +1,55 @@
-# All-in-One Python Toolbox
+# All-in-One Tool
 
-![GitHub last commit](https://img.shields.io/github/last-commit/[RAJPUTRoCkStAr](https://github.com/RAJPUTRoCkStAr/ALL-In-One))
-![GitHub license](https://img.shields.io/github/license/[RAJPUTRoCkStAr/all-in-one-python-toolbox](https://github.com/RAJPUTRoCkStAr/ALL-In-One))
-
-A versatile Python application that offers a variety of useful features, including PDF conversion, image background removal, text extraction from images, document conversion, audio recording, text-to-speech synthesis, and PDF text-to-speech reading.
-
-## Table of Contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+Welcome to the All-in-One Tool! This application offers a variety of functionalities including PDF conversion, image processing, text extraction, audio recording, text-to-speech conversion, and more. It aims to provide a versatile toolkit for different tasks in one consolidated interface.
 
 ## Features
 
-This Python toolbox provides the following features:
+- **PDF to DOCX Conversion**: Convert PDF files to DOCX format.
+- **Image Background Remover**: Remove backgrounds from images.
+- **Image to Text**: Extract text from images.
+- **DOCX to PDF Conversion**: Convert DOCX files to PDF format.
+- **Audio Recorder**: Record audio with specified duration and sample rate.
+- **Text-to-Speech Audio Creator**: Convert text to speech and save as MP3.
+- **PDF Text-to-Speech Reader**: Read PDF documents aloud.
 
-1. **PDF to DOCX Conversion**: Convert PDF documents to Microsoft Word (DOCX) format.
+## Technologies Used
 
-2. **Image Background Remover**: Remove the background from images, allowing for better integration into other content.
+- Python
+- Tkinter
+- PyPDF2
+- pyttsx3
+- pdf2docx
+- docx2pdf
+- sounddevice
+- easyocr
+- gTTS
+- Pillow (PIL)
+- rembg
 
-3. **Image to Text Converter**: Extract text from images using optical character recognition (OCR).
+1. **Installation**:
+   - Clone the repository:
+     ```bash
+     git clone https://github.com/RAJPUTRoCkStAr/ALL-In-One
+     cd ALL-In-One
+     ```
+   - Run the application:
+     ```bash
+     python main.py
+     ```
 
-4. **DOCX to PDF Conversion**: Convert Microsoft Word (DOCX) documents to PDF files.
+## Contributing
 
-5. **Audio Recorder**: Record audio and save it as a WAV file.
+Contributions are welcome! Follow these steps to contribute:
+- Fork the repository.
+- Create a new branch (`git checkout -b feature/YourFeature`).
+- Commit your changes (`git commit -am 'Add some feature'`).
+- Push to the branch (`git push origin feature/YourFeature`).
+- Create a new Pull Request.
 
-6. **Text-to-Speech Audio Creator**: Convert text to speech and save it as an MP3 audio file.
+## License
 
-7. **PDF Text-to-Speech Reader**: Read text from PDF documents aloud using text-to-speech synthesis.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Installation
+## Contact
 
-To use this toolbox, follow these steps:
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/all-in-one-python-toolbox.git
+For inquiries or feedback, feel free to contact RoyalRockStar (sumit)
